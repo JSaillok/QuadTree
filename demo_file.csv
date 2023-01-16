@@ -1,0 +1,670 @@
+55,2,PhD,Atta ur Rehman Khan 
+155,2,PhD,Wil van der Aalst 
+370,7,PhD,Scott Aaronson 
+325,5,PhD,Rediet Abebe 
+457,6,PhD,Hal Abelson 
+49,6,PhD,Serge Abiteboul 
+104,5,PhD,Samson Abramsky 
+170,2,PhD,Leonard Adleman 
+88,1,PhD,Manindra Agrawal 
+109,1,PhD,Luis von Ahn 
+655,2,PhD,Alfred Aho 
+137,2,PhD,Frances E. Allen 
+327,3,PhD,Gene Amdahl 
+483,2,PhD,David P. Anderson 
+261,3,PhD,Lisa Anthony 
+295,1,PhD,Andrew Appel 
+16,5,PhD,Cecilia R. Aragon 
+546,4,PhD,Bruce Arden 
+70,4,PhD,Sanjeev Arora 
+653,6,PhD,"Winifred ""Tim"" Alice Asprey "
+30,5,PhD,John Vincent Atanasoff 
+263,3,PhD,Shakuntala Atre 
+176,6,PhD,Charles Babbage
+298,2,PhD,Charles Bachman 
+523,3,PhD,Roland Carl Backhouse 
+652,2,PhD,John Backus 
+10,3,PhD,David F. Bacon 
+17,5,PhD,David A. Bader
+462,4,PhD,Victor Bahl
+218,4,PhD,Anthony James Barr 
+645,5,PhD,Jean Bartik
+136,6,PhD,Andrew Barto
+579,6,PhD,Friedrich L. Bauer 
+618,2,PhD,Rudolf Bayer 
+291,3,PhD,Gordon Bell
+166,6,PhD,Steven M. Bellovin 
+21,5,PhD,Cecilia Berdichevsky
+273,3,PhD,Tim Berners-Lee 
+102,4,PhD,Daniel J. Bernstein 
+503,3,PhD,Peter Bernus
+648,6,PhD,Abhay Bhushan
+467,2,PhD,Dines Bj�rner
+415,5,PhD,Gerrit Blaauw 
+200,6,PhD,Sue Black
+637,1,PhD,David Blei
+181,5,PhD,Dorothy Blum 
+31,5,PhD,Lenore Blum 
+504,1,PhD,Manuel Blum 
+344,5,PhD,Barry Boehm 
+221,5,PhD,Corrado B�hm
+193,6,PhD,Kurt Bollacker
+116,2,PhD,Jeff Bonwick 
+68,2,PhD,Grady Booch 
+5,6,PhD,George Boole 
+129,6,PhD,Andrew Booth 
+512,6,PhD,Kathleen Booth 
+1,5,PhD,Anita Borg
+343,3,PhD,Bert Bos 
+612,1,PhD,Mikhail Botvinnik 
+346,5,PhD,Jonathan Bowen 
+315,4,PhD,Stephen R. Bourne 
+328,4,PhD,Harry Bouwman
+331,4,PhD,Robert S. Boyer 
+660,1,PhD,Karlheinz Brandenburg 
+632,3,PhD,Lawrence M. Breed 
+210,4,PhD,Jack E. Bresenham 
+62,3,PhD,Sergey Brin 
+98,2,PhD,David J. Brown 
+24,5,PhD,Per Brinch Hansen
+384,1,PhD,Sjaak Brinkkemper 
+335,1,PhD,Fred Brooks 
+608,3,PhD,Rod Brooks
+13,1,PhD,Margaret Burnett 
+287,1,PhD,Michael Butler 
+412,6,PhD,Tracy Camp 
+487,1,PhD,Martin Campbell-Kelly 
+235,6,PhD,Rosemary Candlin
+87,5,PhD,Rod Canion
+389,4,PhD,Bryan Cantrill 
+46,1,PhD,Luca Cardelli 
+51,5,PhD,John Carmack 
+500,4,PhD,Edwin Catmull 
+421,2,PhD,Vint Cerf 
+506,2,PhD,Gregory Chaitin
+458,4,PhD,Robert Cailliau 
+593,5,PhD,Zhou Chaochen 
+146,2,PhD,Peter Chen 
+413,5,PhD,Leonardo Chiariglione 
+332,6,PhD,Tracy Chou 
+581,1,PhD,Alonzo Church 
+90,1,PhD,Alberto Ciaramella 
+366,1,PhD,Edmund M. Clarke 
+501,5,PhD,John Cocke 
+364,4,PhD,Edgar F. Codd
+621,3,PhD,Jacques Cohen 
+243,3,PhD,Ian Coldwater 
+643,2,PhD,Simon Colton 
+391,1,PhD,Alain Colmerauer 
+160,2,PhD,Douglas Comer 
+436,6,PhD,Paul Justin Compton 
+537,4,PhD,Richard W. Conway 
+583,4,PhD,Gordon Cormack 
+326,3,PhD,Stephen Cook 
+388,5,PhD,James Cooley 
+453,5,PhD,Danese Cooper 
+67,4,PhD,Fernando J. Corbat�
+659,6,PhD,Kit Cosper 
+322,2,PhD,Patrick Cousot 
+270,3,PhD,Ingemar Cox 
+540,6,PhD,Seymour Cray 
+509,6,PhD,Nello Cristianini 
+37,3,PhD,Jon Crowcroft 
+269,3,PhD,W. Bruce Croft
+268,2,PhD,Glen Culler 
+408,4,PhD,Haskell Curry
+477,1,PhD,Luigi Dadda 
+542,6,PhD,Ole-Johan Dahl 
+642,5,PhD,Ryan Dahl 
+121,6,PhD,Andries van Dam 
+464,6,PhD,Samir Das 
+441,4,PhD,Neil Daswani 
+596,2,PhD,Christopher J. Date 
+422,2,PhD,Jeff Dean 
+244,3,PhD,Erik Demaine 
+354,1,PhD,Tom DeMarco
+342,3,PhD,Richard DeMillo 
+620,3,PhD,Dorothy E. Denning 
+296,1,PhD,Peter J. Denning 
+488,2,PhD,Michael Dertouzos 
+77,6,PhD,Alexander Dewdney
+6,2,PhD,Robert Dewar 
+8,2,PhD,Vinod Dham 
+130,3,PhD,Jan Dietz
+455,1,PhD,Whitfield Diffie
+397,5,PhD,Edsger Dijkstra 
+460,1,PhD,Matthew Dillon 
+19,1,PhD,Alan Dix 
+126,2,PhD,Jack Dongarra 
+597,6,PhD,Marco Dorigo 
+651,3,PhD,Paul Dourish 
+167,2,PhD,Charles Stark Draper
+524,4,PhD,Susan Dumais 
+514,3,PhD,Adam Dunkels 
+276,4,PhD,Jon Michael Dunn 
+255,2,PhD,Schahram Dustdar 
+631,5,PhD,Peter Eades 
+158,5,PhD,Annie Easley
+289,2,PhD,Wim Ebbinkhuijsen 
+595,3,PhD,John Presper Eckert 
+196,5,PhD,Alan Edelman 
+429,1,PhD,Brendan Eich 
+112,1,PhD,Philip Emeagwali 
+265,6,PhD,E. Allen Emerson 
+206,6,PhD,Douglas Engelbart 
+211,3,PhD,Barbara Engelhardt 
+424,4,PhD,David Eppstein
+89,5,PhD,Andrey Ershov 
+103,4,PhD,Don Estridge
+23,6,PhD,Oren Etzioni 
+264,4,PhD,Christopher Riche Evans
+274,1,PhD,David C. Evans 
+97,5,PhD,Shimon Even
+409,3,PhD,Scott Fahlman
+246,5,PhD,Edward Feigenbaum 
+182,6,PhD,Edward Felten 
+603,5,PhD,Tim Finin
+86,5,PhD,Raphael Finkel
+132,5,PhD,Donald Firesmith
+362,3,PhD,Gary William Flake
+485,6,PhD,Tommy Flowers 
+134,6,PhD,Robert Floyd 
+560,2,PhD,Sally Floyd 
+308,5,PhD,Lawrence J. Fogel 
+66,3,PhD,James D. Foley
+258,5,PhD,Ken Forbus
+627,5,PhD,"L. R. Ford, Jr."
+271,4,PhD,Lance Fortnow
+257,1,PhD,Mahmoud Samir Fayed 
+267,6,PhD,Martin Fowler
+111,4,PhD,Robert France
+340,5,PhD,Herbert W. Franke
+661,1,PhD,Edward Fredkin
+446,6,PhD,Yoav Freund
+281,4,PhD,Daniel P. Friedman
+476,4,PhD,Charlotte Froese Fischer 
+656,5,PhD,Ping Fu
+28,5,PhD,Xiaoming Fu
+144,5,PhD,Kunihiko Fukushima 
+242,6,PhD,D. R. Fulkerson
+61,1,PhD,Richard P. Gabriel 
+290,3,PhD,Zvi Galil
+443,6,PhD,Bernard Galler 
+288,1,PhD,Hector Garcia-Molina
+162,5,PhD,Michael Garey 
+381,2,PhD,Hugo de Garis
+140,5,PhD,Bill Gates 
+259,3,PhD,David Gelernter
+420,4,PhD,Lisa Gelobter 
+262,3,PhD,Charles Geschke
+586,5,PhD,Zoubin Ghahramani
+640,5,PhD,Sanjay Ghemawat
+324,2,PhD,Jeremy Gibbons 
+81,1,PhD,Juan E. Gilbert 
+309,1,PhD,Lee Giles 
+635,3,PhD,Seymour Ginsburg 
+183,2,PhD,Robert L. Glass
+450,5,PhD,Kurt G�del
+403,4,PhD,Ashok Goel
+330,5,PhD,Joseph Goguen
+646,5,PhD,Hardik Gohel
+348,4,PhD,E. Mark Gold 
+574,2,PhD,Adele Goldberg 
+225,2,PhD,Andrew V. Goldberg 
+190,3,PhD,Ian Goldberg 
+178,2,PhD,Judy Goldsmith
+590,3,PhD,Oded Goldreich 
+410,1,PhD,Shafi Goldwasser 
+240,6,PhD,Gene Golub 
+549,2,PhD,Martin Charles Golumbic 
+47,5,PhD,Gast�n Gonnet 
+417,1,PhD,Ian Goodfellow 
+215,5,PhD,James Gosling 
+510,4,PhD,Paul Graham 
+123,4,PhD,Robert M. Graham 
+576,1,PhD,Susan L. Graham 
+423,1,PhD,Jim Gray 
+369,3,PhD,Sheila Greibach 
+405,6,PhD,David Gries 
+491,1,PhD,Ralph Griswold 
+480,3,PhD,Bill Gropp 
+275,5,PhD,Tom Gruber 
+50,4,PhD,Shelia Guberman 
+213,6,PhD,Ramanathan V. Guha 
+439,2,PhD,Neil J. Gunther 
+93,4,PhD,J�rg Gutknecht 
+489,1,PhD,Michael Guy 
+571,4,PhD,Robert Griesemer 
+336,6,PhD,Nico Habermann 
+171,5,PhD,Philipp Matth�us Hahn 
+114,4,PhD,Eldon C. Hall 
+459,3,PhD,Wendy Hall
+617,3,PhD,Joseph Halpern
+72,4,PhD,Margaret Hamilton 
+201,1,PhD,Richard Hamming 
+594,3,PhD,Jiawei Han 
+94,1,PhD,Frank Harary 
+401,6,PhD,Juris Hartmanis 
+117,4,PhD,Johan H�stad
+163,1,PhD,Les Hatton 
+217,1,PhD,Igor Hawryszkiewycz
+519,5,PhD,He Jifeng 
+668,2,PhD,Eric Hehner 
+230,5,PhD,Martin Hellman 
+209,6,PhD,Gernot Heiser 
+7,1,PhD,James Hendler 
+452,2,PhD,John L. Hennessy 
+42,1,PhD,Andrew Herbert
+527,3,PhD,Carl Hewitt
+353,4,PhD,Kelsey Hightower 
+165,4,PhD,Danny Hillis 
+174,5,PhD,Geoffrey Hinton
+333,3,PhD,Julia Hirschberg
+399,6,PhD,Tin Kam Ho 
+638,4,PhD,C. A. R. Hoare 
+626,5,PhD,Louis Hodes
+575,2,PhD,Betty Holberton 
+521,3,PhD,John Henry Holland 
+294,3,PhD,Herman Hollerith
+463,4,PhD,Gerard Holzmann 
+451,4,PhD,John Hopcroft 
+376,1,PhD,Admiral Grace Hopper
+58,5,PhD,Eric Horvitz 
+91,3,PhD,Alston Householder
+233,6,PhD,Paul Hudak
+528,1,PhD,David A. Huffman
+406,2,PhD,John Hughes 
+538,5,PhD,Roger Hui 
+472,5,PhD,Watts Humphrey
+541,1,PhD,Jean Ichbiah 
+0,5,PhD,Roberto Ierusalimschy 
+465,2,PhD,Dan Ingalls 
+428,5,PhD,Mary Jane Irwin
+95,5,PhD,Kenneth E. Iverson 
+29,4,PhD,Ivar Jacobson 
+481,5,PhD,Anil K. Jain
+633,1,PhD,Ramesh Jain
+533,5,PhD,Jonathan James
+73,6,PhD,David S. Johnson
+223,5,PhD,Stephen C. Johnson
+456,2,PhD,Cliff Jones 
+212,6,PhD,Michael I. Jordan
+32,5,PhD,Mathai Joseph
+609,3,PhD,Aravind K. Joshi
+591,1,PhD,Bill Joy
+557,1,PhD,Dan Jurafsky 
+56,6,PhD,William Kahan 
+108,2,PhD,Robert E. Kahn 
+280,2,PhD,Avinash Kak 
+556,5,PhD,Poul-Henning Kamp 
+610,2,PhD,David Karger
+222,4,PhD,Richard Karp 
+658,6,PhD,Narendra Karmarkar 
+357,3,PhD,Marek Karpinski 
+479,5,PhD,Ted Kaehler 
+208,4,PhD,Alan Kay 
+149,2,PhD,Neeraj Kayal 
+293,1,PhD,Manolis Kellis 
+141,3,PhD,John George Kemeny 
+143,5,PhD,Ken Kennedy 
+414,5,PhD,Brian Kernighan
+665,6,PhD,Carl Kesselman 
+584,3,PhD,Gregor Kiczales 
+552,6,PhD,Peter T. Kirstein 
+186,2,PhD,Stephen Cole Kleene 
+38,3,PhD,Dan Klein 
+101,5,PhD,Leonard Kleinrock 
+585,6,PhD,Donald Knuth 
+277,3,PhD,Andrew Koenig 
+484,5,PhD,Daphne Koller 
+359,4,PhD,Michael K�lling
+619,4,PhD,Andrey Nikolaevich Kolmogorov 
+547,2,PhD,Janet L. Kolodner 
+3,5,PhD,David Korn 
+380,1,PhD,Kees Koster 
+57,2,PhD,Robert Kowalski 
+615,4,PhD,John Koza 
+12,4,PhD,John Krogstie 
+444,2,PhD,Joseph Kruskal 
+152,4,PhD,Thomas E. Kurtz
+602,1,PhD,Richard E. Ladner
+367,6,PhD,Monica S. Lam
+65,6,PhD,Leslie Lamport 
+297,3,PhD,Butler Lampson 
+515,3,PhD,Peter Landin 
+495,5,PhD,Tom Lane 
+185,1,PhD,B�rje Langefors
+525,5,PhD,Chris Lattner 
+151,1,PhD,Steve Lawrence
+416,2,PhD,Edward D. Lazowska
+486,6,PhD,Joshua Lederberg
+539,1,PhD,Manny M Lehman
+175,6,PhD,Charles E. Leiserson 
+628,1,PhD,Douglas Lenat 
+184,3,PhD,Yann LeCun
+396,4,PhD,Rasmus Lerdorf 
+425,5,PhD,Max Levchin 
+363,3,PhD,Leonid Levin 
+520,3,PhD,Kevin Leyton-Brown 
+347,5,PhD,J.C.R. Licklider
+321,2,PhD,David Liddle
+43,4,PhD,Jochen Liedtke 
+402,3,PhD,John Lions 
+250,3,PhD,Charles H. Lindsey 
+567,5,PhD,Richard J. Lipton 
+27,1,PhD,Barbara Liskov 
+461,6,PhD,Yanhong Annie Liu 
+430,3,PhD,Darrell Long 
+189,6,PhD,Patricia D. Lopez 
+207,5,PhD,Gillian Lovegrove
+569,3,PhD,Ada Lovelace 
+568,5,PhD,David Luckham 
+431,2,PhD,Eugene Luks
+115,5,PhD,Nancy Lynch
+148,6,PhD,Nadia Magnenat Thalmann 
+329,3,PhD,Tom Maibaum
+249,4,PhD,Zohar Manna 
+191,5,PhD,James Martin 
+513,5,PhD,Robert C. Martin
+299,2,PhD,John Mashey
+44,1,PhD,Yuri Matiyasevich 
+239,3,PhD,Yukihiro Matsumoto 
+349,2,PhD,John Mauchly
+199,3,PhD,Ujjwal Maulik
+159,3,PhD,Derek McAuley 
+75,5,PhD,John McCarthy 
+26,5,PhD,Andrew McCallum
+530,2,PhD,Douglas McIlroy 
+226,4,PhD,Chris McKinstry 
+71,5,PhD,Marshall Kirk McKusick 
+666,4,PhD,Lambert Meertens 
+449,6,PhD,Kurt Mehlhorn 
+180,5,PhD,Dora Metcalf 
+260,5,PhD,Bertrand Meyer 
+572,3,PhD,Silvio Micali 
+133,6,PhD,Robin Milner 
+339,6,PhD,Jack Minker 
+319,1,PhD,Marvin Minsky 
+300,1,PhD,James G. Mitchell 
+493,2,PhD,Tom M. Mitchell
+375,2,PhD,Arvind Mithal 
+172,4,PhD,Paul Mockapetris 
+578,6,PhD,Cleve Moler 
+248,6,PhD,Faron Moller 
+492,4,PhD,John P. Moon 
+589,2,PhD,Charles H. Moore 
+531,4,PhD,Edward F. Moore 
+138,1,PhD,Gordon Moore 
+84,5,PhD,J Strother Moore 
+550,4,PhD,Roger Moore 
+497,6,PhD,Hans Moravec 
+630,6,PhD,Carroll Morgan 
+508,5,PhD,Robert Tappan Morris 
+69,1,PhD,Joel Moses 
+272,5,PhD,Rajeev Motwani 
+228,6,PhD,Oleg A. Mukhanov 
+316,5,PhD,Stephen Muggleton 
+470,2,PhD,Klaus-Robert M�ller
+145,4,PhD,Alan Mycroft 
+407,5,PhD,Brad A. Myers 
+312,6,PhD,M.M. Musharaf Hussain 
+601,2,PhD,Mihai Nadin 
+548,5,PhD,Makoto Nagao 
+374,2,PhD,Frieder Nake 
+545,1,PhD,Bonnie Nardi 
+59,5,PhD,Peter Naur
+566,5,PhD,Roger Needham 
+247,3,PhD,James G. Nell 
+624,1,PhD,Greg Nelson
+598,4,PhD,Bernard de Neumann 
+128,2,PhD,Klara Dan von Neumann
+434,4,PhD,John von Neumann
+317,4,PhD,Allen Newell 
+498,1,PhD,Max Newman 
+204,4,PhD,Andrew Ng 
+502,2,PhD,Nils John Nilsson
+534,5,PhD,G.M. Nijssen 
+139,1,PhD,Tobias Nipkow 
+205,6,PhD,Maurice Nivat 
+234,5,PhD,Phiwa Nkambule 
+150,2,PhD,Jerre Noe 
+419,5,PhD,Peter Nordin 
+570,1,PhD,Donald Norman 
+4,4,PhD,Peter Norvig 
+34,1,PhD,George Novacky 
+2,3,PhD,Kristen Nygaard 
+60,2,PhD,Martin Odersky 
+83,2,PhD,Peter O'Hearn 
+284,3,PhD,T. William Olle 
+448,1,PhD,Steve Omohundro
+236,4,PhD,Severo Ornstein
+85,3,PhD,John O'Sullivan 
+231,1,PhD,John Ousterhout 
+398,1,PhD,Mark Overmars 
+478,4,PhD,Susan Owicki 
+526,6,PhD,Larry Page 
+395,3,PhD,Sankar Pal
+106,6,PhD,Paritosh Pandya
+195,2,PhD,Christos Papadimitriou
+654,4,PhD,David Park
+313,5,PhD,David Parnas 
+390,4,PhD,DJ Patil 
+318,2,PhD,Yale Patt 
+11,2,PhD,David Patterson 
+311,2,PhD,Mike Paterson 
+577,5,PhD,Mihai P?tra?cu
+157,4,PhD,Lawrence Paulson 
+278,2,PhD,Randy Pausch 
+100,4,PhD,Juan Pav�n
+600,1,PhD,Judea Pearl 
+385,6,PhD,Alan Perlis 
+607,5,PhD,Radia Perlman 
+392,2,PhD,Pier Giorgio Perotto 
+368,2,PhD,R�zsa P�ter
+573,5,PhD,Simon Peyton Jones 
+427,6,PhD,Kathy Pham 
+45,5,PhD,Roberto Pieraccini 
+505,1,PhD,Gordon Plotkin
+92,5,PhD,Amir Pnueli 
+442,2,PhD,Willem van der Poel 
+355,5,PhD,Cicely Popplewell
+522,3,PhD,Emil Post 
+142,4,PhD,Jon Postel 
+386,4,PhD,Franco Preparata 
+496,1,PhD,William H. Press 
+107,2,PhD,Rapelang Rabana
+454,2,PhD,Grzegorz Rozenberg 
+490,2,PhD,Michael O. Rabin 
+371,1,PhD,Dragomir R. Radev 
+35,5,PhD,T. V. Raman 
+554,2,PhD,Brian Randell 
+551,2,PhD,Anders P. Ravn 
+282,2,PhD,Raj Reddy 
+41,3,PhD,David P. Reed
+154,3,PhD,Trygve Reenskaug 
+529,4,PhD,John C. Reynolds 
+625,1,PhD,Joyce K. Reynolds 
+649,3,PhD,Reinder van de Riet 
+323,5,PhD,Bernard Richards 
+356,4,PhD,Martin Richards 
+237,5,PhD,Adam Riese
+232,2,PhD,C. J. van Rijsbergen
+36,4,PhD,Dennis Ritchie 
+553,6,PhD,Ron Rivest 
+292,2,PhD,Ken Robinson 
+641,1,PhD,Colette Rolland 
+118,3,PhD,John Romero 
+229,3,PhD,Azriel Rosenfeld
+559,2,PhD,Douglas T. Ross 
+341,6,PhD,Guido van Rossum 
+194,6,PhD,M. A. Rothman 
+440,4,PhD,Winston W. Royce 
+18,5,PhD,Rudy Rucker 
+634,2,PhD,Steven Rudich 
+352,4,PhD,Jeff Rulifson
+22,6,PhD,James Rumbaugh 
+156,3,PhD,Peter Ru�i?ka
+251,4,PhD,George Sadowsky
+604,2,PhD,Umar Saif
+580,5,PhD,Gerard Salton 
+279,6,PhD,Jean E. Sammet 
+471,3,PhD,Claude Sammut 
+482,3,PhD,Carl Sassenrath 
+227,3,PhD,Mahadev Satyanarayanan 
+616,3,PhD,Walter Savitch 
+303,5,PhD,Jonathan Schaeffer
+599,4,PhD,Wilhelm Schickard 
+169,1,PhD,J�rgen Schmidhuber
+283,1,PhD,Steve Schneider 
+79,1,PhD,Bruce Schneier 
+286,6,PhD,Fred B. Schneider 
+64,1,PhD,Sarita Schoenebeck
+474,6,PhD,Glenda Schroeder 
+241,4,PhD,Bernhard Sch�lkopf
+561,4,PhD,Dana Scott 
+418,3,PhD,Michael L. Scott 
+245,5,PhD,Robert Sedgewick 
+644,2,PhD,Ravi Sethi 
+337,3,PhD,Nigel Shadbolt
+562,2,PhD,Adi Shamir 
+254,1,PhD,Claude Shannon 
+177,1,PhD,David E. Shaw 
+320,2,PhD,Cliff Shaw 
+468,6,PhD,Scott Shenker 
+63,6,PhD,Ben Shneiderman 
+122,2,PhD,Edward H. Shortliffe 
+192,1,PhD,Daniel Siewiorek 
+382,1,PhD,Joseph Sifakis 
+198,1,PhD,Herbert A. Simon 
+105,3,PhD,Munindar P. Singh 
+216,5,PhD,Ramesh Sitaraman 
+623,3,PhD,Daniel Sleator 
+48,3,PhD,Aaron Sloman 
+164,1,PhD,Arne S�lvberg
+629,5,PhD,Brian Cantwell Smith 
+647,3,PhD,David Canfield Smith 
+404,2,PhD,Steven Spewak 
+378,4,PhD,Carol Spradling
+447,6,PhD,Robert Sproull
+394,5,PhD,Rohini Kesavan Srihari 
+214,6,PhD,Sargur Srihari 
+96,5,PhD,Maciej Stachowiak 
+119,6,PhD,Richard Stallman
+518,1,PhD,Ronald Stamper
+78,4,PhD,Richard E. Stearns 
+432,1,PhD,"Guy L. Steele, Jr. "
+153,3,PhD,Thomas Sterling 
+564,3,PhD,Alexander Stepanov 
+592,5,PhD,W. Richard Stevens
+307,1,PhD,Larry Stockmeyer 
+437,6,PhD,Salvatore Stolfo 
+614,4,PhD,Michael Stonebraker 
+345,5,PhD,Olaf Storaasli 
+120,2,PhD,Christopher Strachey 
+662,5,PhD,Volker Strassen 
+202,3,PhD,Bjarne Stroustrup 
+179,6,PhD,Madhu Sudan 
+338,1,PhD,Gerald Jay Sussman 
+372,2,PhD,Bert Sutherland 
+305,6,PhD,Ivan Sutherland 
+663,5,PhD,Latanya Sweeney 
+393,2,PhD,Mario Szegedy 
+650,1,PhD,Parisa Tabriz 
+74,3,PhD,Roberto Tamassia 
+555,6,PhD,Andrew S. Tanenbaum 
+113,5,PhD,Austin Tate 
+536,3,PhD,Bernhard Thalheim 
+358,4,PhD,�va Tardos
+532,4,PhD,G�bor Tardos
+124,6,PhD,Robert Tarjan 
+220,4,PhD,Valerie Taylor
+438,6,PhD,Mario Tchou 
+82,3,PhD,Jaime Teevan
+582,4,PhD,Shang-Hua Teng 
+664,1,PhD,Larry Tesler 
+361,2,PhD,Avie Tevanian 
+9,1,PhD,Charles P. Thacker 
+516,6,PhD,Daniel Thalmann 
+306,5,PhD,Ken Thompson 
+543,2,PhD,Sebastian Thrun 
+587,6,PhD,Walter F. Tichy 
+33,2,PhD,Seinosuke Toda 
+544,6,PhD,Linus Torvalds 
+365,1,PhD,Leonardo Torres y Quevedo
+611,2,PhD,Godfried Toussaint 
+535,4,PhD,Gloria Townsend
+657,5,PhD,Edwin E. Tozer 
+304,4,PhD,Joseph F Traub 
+161,5,PhD,John V. Tucker 
+377,3,PhD,John Tukey 
+25,1,PhD,Alan Turing
+494,4,PhD,David Turner 
+147,3,PhD,Murray Turoff 
+256,4,PhD,Jeffrey D. Ullman 
+588,2,PhD,Leslie Valiant 
+426,4,PhD,Vladimir Vapnik 
+565,6,PhD,Moshe Vardi 
+511,4,PhD,Dorothy Vaughan
+285,5,PhD,Umesh Vazirani
+466,2,PhD,Manuela M. Veloso
+563,2,PhD,Fran�ois Vernadat
+435,1,PhD,Richard Veryard 
+669,3,PhD,Sergiy Vilkomir 
+613,5,PhD,Paul Vitanyi 
+606,6,PhD,Andrew Viterbi 
+39,1,PhD,Jeffrey Scott Vitter 
+76,5,PhD,Paul Vixie 
+360,3,PhD,Eiiti Wada 
+173,6,PhD,David Wagner 
+168,3,PhD,David Waltz
+475,4,PhD,James Z. Wang
+383,3,PhD,Steve Ward
+238,2,PhD,Manfred K. Warmuth 
+473,6,PhD,David H. D. Warren 
+54,4,PhD,Kevin Warwick 
+302,4,PhD,Jan Weglarz
+314,3,PhD,Philip Wadler 
+350,5,PhD,Peter Wegner 
+517,2,PhD,Joseph Henry Wegstein 
+334,3,PhD,Peter J. Weinberger 
+203,4,PhD,Mark Weiser 
+80,4,PhD,Joseph Weizenbaum 
+53,5,PhD,David Wheeler 
+667,5,PhD,Franklin H. Westervelt 
+639,3,PhD,Steve Whittaker 
+507,1,PhD,Jennifer Widom 
+252,6,PhD,Gio Wiederhold 
+558,6,PhD,Norbert Wiener 
+400,3,PhD,Adriaan van Wijngaarden 
+20,2,PhD,Mary Allen Wilkes 
+622,6,PhD,Maurice Vincent Wilkes 
+387,1,PhD,Yorick Wilks 
+301,2,PhD,James H. Wilkinson 
+379,1,PhD,Sophie Wilson 
+351,4,PhD,Shmuel Winograd 
+187,4,PhD,Terry Winograd 
+197,3,PhD,Patrick Winston 
+14,5,PhD,Niklaus Wirth 
+373,2,PhD,Neil Wiseman 
+135,6,PhD,Dennis E. Wisnosky 
+15,4,PhD,Stephen Wolfram 
+411,4,PhD,Mike Woodger 
+52,3,PhD,Philip Woodward 
+40,4,PhD,Beatrice Helen Worsley 
+445,5,PhD,Steve Wozniak 
+110,3,PhD,Jie Wu 
+605,1,PhD,William Wulf 
+310,6,PhD,Mihalis Yannakakis
+636,1,PhD,Andrew Chi-Chih Yao
+127,5,PhD,John Yen
+499,1,PhD,Nobuo Yoneda 
+99,2,PhD,Edward Yourdon 
+469,4,PhD,Moti Yung
+266,2,PhD,Lotfi Zadeh 
+188,1,PhD,Hans Zantema 
+131,1,PhD,Arif Zaman 
+224,6,PhD,Stanley Zdonik
+253,5,PhD,Hussein Zedan 
+125,6,PhD,Shlomo Zilberstein 
+433,3,PhD,Jill Zimmerman 
+219,1,PhD,Konrad Zuse 
