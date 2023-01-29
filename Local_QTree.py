@@ -64,7 +64,7 @@ class LocalQuadTree(QTree.QuadTree):
     def get_knn(self, point: QTree.Point, k: int):
 
         print(20*"*")
-        print("For " + point.data + "with coordinates " + str(point.x) + ", " + str(point.y) + "\n")
+        print("For " + point.data + " with coordinates " + str(point.x) + ", " + str(point.y) + "\n")
 
         points, nodes_visited = self.query(point)
 

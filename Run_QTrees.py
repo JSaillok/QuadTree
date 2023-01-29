@@ -3,56 +3,44 @@ import QTree
 from Local_QTree import LocalQuadTree
 import re #Regular expression operations
 import pandas as pd
+import names
 
 dim = 2
-NUM_OF_COLUMNS = 4
 
-def put_into_list(file):
+
+def put_into_list(file, start, end):
 
     latitude = []
-    longitude = []
+    longtitude = []
     scientists_list = []
-    # l=0 # index of lines (to skip 1st line)
 
-    for line in file: # For every line in the file
-        # if l==0:
-        #     continue
-        j = 0  # character counter
-        k = 0  # column counter
-        for column in range(NUM_OF_COLUMNS): # and for every column from our records.
-            content = "" # Firstly, we initialise a string.
-            for character in line[j:len(line)]: # Then, we iterate through every string,
-                j = j + 1  # we count the characters
-                if character == ',' or character == '\n': # and if we find a ,
-                    k = k + 1 # we add 1 to our column counter, signaling that one column is finished
-                    break # and we break from the character loop.
-                content = content + character # We add each character to our string value
-            # and we assign that string value to our temporary variables, based on the column counter.
-            if k == 1:
-                temp_latitude = content
-                temp_latitude = int(temp_latitude)
-                latitude.append(temp_latitude)
-            elif k == 2:
-                temp_longitude = content
-                temp_longitude = int(temp_longitude)
-                longitude.append(temp_longitude)
-            elif k == 3: temp_education = str(content)
-            elif k == 4:
-                temp_name = content
-                scientists_list.append(content)
-                k = k + 1
+    firstline = file.readline()
 
-    return latitude, longitude, scientists_list
+    for line in file:
+
+        if firstline == line:continue
+
+        line = line.split(",")
+
+        filt_line = names.name_filter(line, start, end)
+        if (filt_line != []):
+            latitude.append(int(filt_line[0]))
+            longtitude.append(int(filt_line[1]))
+            scientists_list.append(filt_line[3].strip())
+        
+        
+
+    return latitude, longtitude, scientists_list
 
 
 
-def get_points(latitude, longitude): # Takes the list of scientists as an instance.
+def get_points(latitude, longtitude): # Takes the list of scientists as an instance.
     points = [] # Initializing an empty list.
 
     for i in range(len(latitude)): # Iterating through the whole list,
         temp_list = [0, 0] # we initialize an empty list with two elements.
         temp_list[0] = latitude[i] # First, we insert the latitude
-        temp_list[1] = longitude[i]# and secondly the longitude
+        temp_list[1] = longtitude[i]# and secondly the longtitude
         points.append(temp_list) # Finally we append our temporary list to our list of points
 
     return points # and we return our list of points
@@ -63,8 +51,7 @@ def range_search(points, range_min, range_max):
     index = 0
     for i in points: # For every point in our tree
 
-        if (i[0] >= range_min[0]) and (i[0] <= range_max[0]) \
-                and (i[1] >= range_min[1]) and (i[1] <= range_max[1]):
+        if (i[0] >= range_min[0]) and (i[0] <= range_max[0]) and (i[1] >= range_min[1]) and (i[1] <= range_max[1]):
             #print("I am " + str(i[0]) + " and i am bigger than " + str(range_min[0]) + " and smaller than " + str(range_max[0]) + "\n")
             #print("I am " + str(i[1]) + " and i am bigger than " + str(range_min[1]) + " and smaller than " + str(range_max[1]) + "\n")
             result.append(index) # If the point is within the range we append it to the result list
@@ -101,10 +88,11 @@ def run_scientists(scientist_name, k: int, lat, lon, name):
     print("%f%s" % (dt, "sec"))
     print(20*"*")
     print(20*"*")
-    print("%s%i%s" % ("The ", k, " nearest neighbors are :"))
+    print("%s%i%s" % ("The ", k-1, " nearest neighbors are :"))
     print("\n")
     count = 0
     for i in list3:
+        if i==list3[0]:continue
         print(str(count) + "  ====> "+i.data + "with coordinates (" + str(i.x) + "," + str(i.y) + ")")
         count = count + 1
     print("_________________")
@@ -114,33 +102,44 @@ def run_scientists(scientist_name, k: int, lat, lon, name):
 def main_scientists():
 
     #Read file
+
     file = open("demo_file.csv", "r")
-    lat, lon, name = put_into_list(file)
-    print("Data successfully read.\n")
-    points = get_points(lat, lon)
+    start = input("Give the 1st letter of list: ")
+    end = input("Give the last letter of list: ")
+    lat, lon, name = put_into_list(file, start, end)
+    if len(name) == 0:
+        print("There is no scientist in this range of letters")
 
-    print("\n MENU :\n")
-    choice = int(input("1: kNN \n2: Range Search \n"))
+    else:
+        print("Data successfully read.\n")
+        points = get_points(lat, lon)
 
-    if choice == 1:
+        print("\n MENU :\n")
+        choice = int(input("1: kNN \n2: Range Search \n"))
 
-        scientist = input("Give the name of the scientist you want to search his neighbors: ")
-        k_neighbors = int(input("How many nearby scientists do you want to show: "))
-        run_scientists(scientist, k_neighbors, lat, lon, name)
+        if choice == 1:
 
-    elif choice == 2:
+            scientist = input("Give the name of the scientist you want to search his neighbors: ")
+            k_neighbors = int(input("How many nearby scientists do you want to show: "))
+            # n = name.index(scientist)
+            # name.remove(scientist)
+            # lat.remove(lat[n])
+            # lon.remove(lon[n])
+            run_scientists(scientist, k_neighbors + 1, lat, lon, name)
 
-        search_min = [0, 0]
-        search_max = [0, 0]
-        search_min[0] = float(input("Please give the minimum cord: "))
-        search_min[1] = float(input("Please give the minimum award: "))
-        search_max[0] = float(input("Please give the maximum cord: "))
-        search_max[1] = float(input("Please give the maximum award: "))
+        elif choice == 2:
 
-        result = range_search(points, search_min, search_max)
-        # print(result)
-        for i in result:
-            print(name[i] + "[" + str(lat[i]) + ", " + str(lon[i]) + "]")
+            search_min = [0, 0]
+            search_max = [0, 0]
+            search_min[0] = float(input("Please give the minimum cord: "))
+            search_min[1] = float(input("Please give the minimum award: "))
+            search_max[0] = float(input("Please give the maximum cord: "))
+            search_max[1] = float(input("Please give the maximum award: "))
+
+            result = range_search(points, search_min, search_max)
+            # print(result)
+            for i in result:
+                print(name[i] + "[" + str(lat[i]) + ", " + str(lon[i]) + "]")
 
 if __name__ == '__main__':
 
