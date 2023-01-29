@@ -1,9 +1,4 @@
 import math
-import sys
-sys.setrecursionlimit(2000) 
-# Used to set the maximum depth of the Python interpreter stack to the required limit.
-# Prevents any program from getting into infinite recursion
-# Otherwise infinite recursion will lead to overflow of the C stack and crash the Python
 
 # Function that creates an object which represents x,y coordinates on 2D
 # Every object has one point
